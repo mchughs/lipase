@@ -1,6 +1,6 @@
 (ns cards.core
   (:require [devcards.core :as dc]
-            cards.hello-world))
+            [cards.pulmonic-consonants-table]))
 
 (defn init []
   (dc/start-devcard-ui!))

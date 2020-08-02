@@ -1,0 +1,13 @@
+.consonant {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px;
+  border-radius: 12px;
+}
+
+.unused-sound {
+  background-color: gray;
+  padding: 10px;
+  border-radius: 12px;
+}

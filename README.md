@@ -1,7 +1,6 @@
 # lipase
 
-A [re-frame](https://github.com/day8/re-frame) application designed to ... well, that part is up to
-you.
+Lipase (pronounced: lɑip<sup>h</sup>ɛiz) stands for Learn IPA Super Easily. This PWA is aimed at helping people get a feeling for the ins and outs of phonology.
 
 ## Getting Started
 

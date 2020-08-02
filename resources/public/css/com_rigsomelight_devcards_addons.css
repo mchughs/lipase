@@ -4,26 +4,26 @@ body {
     overflow-x: hidden;
 }
 
-@media (max-width: 1000px) {
-.com-rigsomelight-devcards-card-hide-border
-.com-rigsomelight-devcards_rendered-card
-.com-rigsomelight-devcards-markdown pre {
-    margin-right: -3000px;
-    margin-left: -3000px;
-    padding-right: 3000px;
-    padding-left: 3000px;
-}
+@media (max-width: 100px) {
+  .com-rigsomelight-devcards-card-hide-border
+  .com-rigsomelight-devcards_rendered-card
+  .com-rigsomelight-devcards-markdown pre {
+      margin-right: -3000px;
+      margin-left: -3000px;
+      padding-right: 3000px;
+      padding-left: 3000px;
+  }
 }
 
 /* default typography */
 .com-rigsomelight-devcards_rendered-card {
-    font-family: 'Formular', Helvetica, Arial, sans-serif;
-    font-size: 16px;
-    line-height: 1.42857143;
+  font-family: 'Formular', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.42857143;
 }
 
 .com-rigsomelight-devcards_rendered-card code {
-    font-size: 90%;
+  font-size: 90%;
 }
 
 .com-rigsomelight-devcards_rendered-card h1,
@@ -31,9 +31,9 @@ body {
 .com-rigsomelight-devcards_rendered-card h3,
 .com-rigsomelight-devcards_rendered-card h4,
 .com-rigsomelight-devcards_rendered-card h5 {
-    font-weight: 500;
+  font-weight: 500;
 }
 
 .com-rigsomelight-devcards_rendered-card a {
-    text-decoration: none;
+  text-decoration: none;
 }
